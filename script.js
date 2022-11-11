@@ -48,6 +48,7 @@ for (i = 0; i < charLength; i++) {
   generatedPass = generatedPass + charArray[index];
 }
 return generatedPass;
+//run function
 
 
 }
