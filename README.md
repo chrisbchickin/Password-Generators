@@ -10,7 +10,7 @@ I learned how to create prompts, generate random numbers and loop through arrays
 https://developer.mozilla.org/en-US/
 
 ## Screenshot 
-
+Password-Generators/assets/images/screenshot.png
 
 ## License
 Copyright (c) 2012-2022 Scott Chacon and others
